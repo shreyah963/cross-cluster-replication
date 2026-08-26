@@ -1,3 +1,8 @@
+/*
+ * Copyright OpenSearch Contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 package org.opensearch.replication.task.shard
 
 import com.carrotsearch.randomizedtesting.annotations.ThreadLeakScope
